@@ -1,5 +1,4 @@
-S. No.,Age      ,Sex  ,  RBC    ,PCV,MCV  ,MCH, MCHC  , RDW    ,TLC, PLT /mm3, HGB 
-,,,Red Blood Cell count,Packed Cell Volume,Mean Cell Volume,Mean Cell Hemoglobin,,Red Cell Distribution width,"White Blood Cell (WBC count),",Platelet,Hemoglobin
+SNo,Age,Sex,RBC,PCV,MCV,MCH,MCHC,RDW,TLC, PLTpermm3,HGB 
 1,28,0,5.66,34,60.1,17,28.2,20,11.1,128.3,9.6
 2,41,0,4.78,44.5,93.1,28.9,31,13,7.02,419,13.8
 3,40,1,4.65,41.6,89.5,28.8,32.2,13,8.09,325,13.4
